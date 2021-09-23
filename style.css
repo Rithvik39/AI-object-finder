@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+#start , #number_of_objects , #status{
+    font-size: 25px;
+}
+.copyright_footer{
+    background-color: aquamarine;
+    color: orangered;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
+#object_name{
+    width: 30%;
+    padding: 10px;
+}
+canvas{
+    border: 2px solid coral;
+    border-radius: 15px;
+    box-shadow: 2px 2px 9px greenyellow;
+}
